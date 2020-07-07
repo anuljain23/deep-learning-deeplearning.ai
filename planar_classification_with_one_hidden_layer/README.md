@@ -5,7 +5,7 @@
  You will then fit a neural network to correctly classify the points.
  You will try different layers and see the results.</p>
 
- <img src="images/Capture1.png" width="400" height="250">
+ <img src="images/Capture1.png" width="500" height="250">
 
  <p>By completing this assignment you will:</p>
  - Develop an intuition of back-propagation and see it work on data.
