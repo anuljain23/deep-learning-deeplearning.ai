@@ -1,4 +1,4 @@
-<h1>deep-lerning-deeplearning.ai</h1>
+<h1>Deep-lerning-deeplearning.ai</h1>
 <p>This repository contains all the programming assignments given in the Deep Learning course by deeplearning.ai offered by Coursera.</p>
 
 <hr>
@@ -85,3 +85,16 @@
  <li>Implement dropout and see it work on data.
  <li>Recognize that a model without regularization gives you a better accuracy on the training set but nor necessarily on the test set.
  <li>Understand that you could use both dropout and regularization on your model.
+ <hr>
+
+ <h2>Gradient Checking<h2>
+
+ <p>This is the third part of the first assignment of the hyper parameters tuning specialization. You will be implementing gradient checking to make sure that your backpropagation implementation is correct. By completing this assignment you will be learning:
+
+ <ul>
+ <li>Implement gradient checking from scratch.
+ <li>Understand how to use the difference formula to check your backpropagation implementation.
+ <li>Recognize that your backpropagation algorithm should give you similar results as the ones you got by computing the difference formula.
+ <li>Learn how to identify which parameter's gradient was computed incorrectly.
+ </ul>
+ <hr>
