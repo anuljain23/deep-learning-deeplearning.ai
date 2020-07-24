@@ -89,7 +89,7 @@
 
  <h2>Gradient Checking<h2>
 
- <p>This is the third part of the first assignment of the hyper parameters tuning specialization. You will be implementing gradient checking to make sure that your backpropagation implementation is correct. By completing this assignment you will be learning:
+ <p>This is the third part of the first assignment of the hyper parameters tuning specialization. You will be implementing gradient checking to make sure that your backpropagation implementation is correct. By completing this assignment you will be learning:</p>
 
  <ul>
  <li>Implement gradient checking from scratch.
@@ -103,7 +103,7 @@
 
  <p>Welcome to the optimization's programming assignment of the hyper-parameters tuning specialization. There are many different optimization algorithms you could be using to get you to the minimal cost. Similarly, there are many different paths down this hill to the lowest point.</p>
 
- <img scr="optimization_methods/images/image01.png" width="250" height="250">
+ <img scr="optimization_methods/images/image01.png" width="550" height="250">
 
  By completing this assignment you will be learning:
 
