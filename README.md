@@ -103,7 +103,7 @@
 
  <p>Welcome to the optimization's programming assignment of the hyper-parameters tuning specialization. There are many different optimization algorithms you could be using to get you to the minimal cost. Similarly, there are many different paths down this hill to the lowest point.</p>
 
- <img scr="optimization_methods/images/image01.PNG" width="250" height="250">
+ <img scr="optimization_methods/images/image01.png" width="250" height="250">
 
  By completing this assignment you will be learning:
 
@@ -120,5 +120,5 @@
 
  <p>After completing this assignment you will also be able to implement your own deep learning models using Tensorflow. In fact, using our brand new SIGNS dataset, you will build a deep neural network model to recognize numbers from 0 to 5 in sign language with a pretty impressive accuracy.</p>
 
- <img src="teasorflow_tutorial/images/image.png" height="250px" width="750px">
+ <img src="tensorflow_tutorial/images/image.png" height="250px" width="750px">
  <hr>
