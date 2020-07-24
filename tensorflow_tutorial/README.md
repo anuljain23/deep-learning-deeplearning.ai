@@ -4,4 +4,4 @@
 
 <p>After completing this assignment you will also be able to implement your own deep learning models using Tensorflow. In fact, using our brand new SIGNS dataset, you will build a deep neural network model to recognize numbers from 0 to 5 in sign language with a pretty impressive accuracy.</p>
 
-<img src="images/image.png" height="250px" width="550px">
+<img src="images/image.png" height="250px" width="750px">
